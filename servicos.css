@@ -1,0 +1,41 @@
+body {
+    background-color: white;
+    color: blue;
+    font-family: Arial, sans-serif;
+}
+
+header, footer {
+    background-color: blue;
+    color: white;
+    padding: 10px;
+    text-align: center;
+}
+
+main {
+    padding: 20px;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    color: blue;
+}
+
+a {
+    color: blue;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+button {
+    background-color: blue;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: darkblue;
+}
